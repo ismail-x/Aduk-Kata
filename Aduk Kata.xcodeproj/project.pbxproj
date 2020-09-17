@@ -13,6 +13,7 @@
 		EC9C68502513EDA100562E41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC9C684E2513EDA100562E41 /* Main.storyboard */; };
 		EC9C68522513EDA400562E41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC9C68512513EDA400562E41 /* Assets.xcassets */; };
 		EC9C68552513EDA400562E41 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC9C68532513EDA400562E41 /* LaunchScreen.storyboard */; };
+		EC9C685D2513EEAA00562E41 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = EC9C685C2513EEAA00562E41 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EC9C68512513EDA400562E41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC9C68542513EDA400562E41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC9C68562513EDA400562E41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC9C685C2513EEAA00562E41 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				EC9C68512513EDA400562E41 /* Assets.xcassets */,
 				EC9C68532513EDA400562E41 /* LaunchScreen.storyboard */,
 				EC9C68562513EDA400562E41 /* Info.plist */,
+				EC9C685C2513EEAA00562E41 /* start.txt */,
 			);
 			path = "Aduk Kata";
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC9C68552513EDA400562E41 /* LaunchScreen.storyboard in Resources */,
+				EC9C685D2513EEAA00562E41 /* start.txt in Resources */,
 				EC9C68522513EDA400562E41 /* Assets.xcassets in Resources */,
 				EC9C68502513EDA100562E41 /* Main.storyboard in Resources */,
 			);
